@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "e9b04e48143505a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "566a14a028fbe36f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "225f457ba94635b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Layered Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62a10ca9a1758c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "8324215abdfc8b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8f0eee5b2b4d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fd06f1c2c7b3294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "932af867d8127dbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da6a6bb44ef7fffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef105391b69ea30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6f68e69a0ad1e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture/Layered Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab0d776cf0e3b854",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architecture/Layered Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddff20fb7260c76a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "163391ae6d400950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Architecture/Layered Architecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "225f457ba94635b7",
+  "lastOpenFiles": [
+    "Pasted image 20230225153848.png",
+    "Architecture/Layered Architecture.md",
+    "Untitled.md",
+    "Finance",
+    "Tools for coding",
+    "DSA",
+    "Architecture"
+  ]
+}
