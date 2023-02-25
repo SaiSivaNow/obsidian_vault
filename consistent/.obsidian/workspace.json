@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Layered Architecture.md",
+                "file": "Architecture/MicroService.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/Layered Architecture.md",
+                "file": "Architecture/MicroService.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/Layered Architecture.md",
+                "file": "Architecture/MicroService.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Layered Architecture.md"
+                "file": "Architecture/MicroService.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "225f457ba94635b7",
   "lastOpenFiles": [
-    "Pasted image 20230225153848.png",
     "Architecture/Layered Architecture.md",
+    "Architecture/MicroService.md",
+    "Untitled",
+    "Pasted image 20230225153848.png",
     "Untitled.md",
     "Finance",
     "Tools for coding",
