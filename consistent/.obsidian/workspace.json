@@ -11,11 +11,40 @@
             "id": "225f457ba94635b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Layered Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925a9988c06b26db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/How to decouple services and teams..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99687c06c23efc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Plan 6 months -> 420.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/Plan 6 months -> 420.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/Plan 6 months -> 420.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/Plan 6 months -> 420.md"
+              }
             }
           }
         ]
@@ -138,15 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "225f457ba94635b7",
+  "active": "99687c06c23efc42",
   "lastOpenFiles": [
+    "DSA/Topics.md",
+    "Architecture/Layered Architecture.md",
+    "Architecture/Clean Architecture.md",
+    "Architecture/How to decouple services and teams..md",
     "Architecture/Micro Service.md",
+    "DSA/Plan 6 months -> 420.md",
     "Architecture/MicroService.md",
     "Architecture/Micro Services.md",
-    "Architecture/Layered Architecture.md",
     "Untitled",
     "Pasted image 20230225153848.png",
-    "Untitled.md",
     "Finance",
     "Tools for coding",
     "DSA",
