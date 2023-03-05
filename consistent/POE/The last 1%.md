@@ -1,0 +1,1 @@
+The last 1% of the work - making sure your customers are really delighted by your delivery; making sure the user experience is as simple as possible - is what Customer Obsession is all about.

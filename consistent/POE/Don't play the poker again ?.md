@@ -1,0 +1,4 @@
+Poker using Fibonnaci allows all team members to provide estimates for a given task. 
+Number is always picked to be second highest one. So that all opinion matter. And here the game is baised towards inexperienced members.
+
+But I don’t think playing pokers ever worked for us. It only promoted mediocrities, instead engineering excellence. The idea of a crowd throwing in numbers will get better estimates than the individual subject matter expert is predicated on the assumption everyone in the crowd have the same amount of expertise, and they will vote rationally. But that is rarely true. Human, in fact almost all organic systems are naturally hierarchical. There will always be members more experienced, more skilled and more dedicated than others. Your top performers will be 10 times more productive than your p50.
