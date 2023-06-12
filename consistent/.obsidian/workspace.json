@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "566a14a028fbe36f",
+        "id": "170fab568d1fc2b4",
         "type": "tabs",
         "children": [
           {
-            "id": "225f457ba94635b7",
+            "id": "bb115b07434e8779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Layered Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "925a9988c06b26db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/Clean Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b27a42779faba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/How is SDE and SDM mindset different?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a1d2c1f3426a7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/Don't play the poker again ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fafc664283bfc3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/Project Smells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8493d7accb86f314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/Should a SDM be able to code like a SDE?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f39e3d180713ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/No excuse for bad engineering ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4b780a9c39cac75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/How to resolve conflicts ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ac4b82a78091351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/Workign Backwards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cff2346755776e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/The last 1%.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9847e1e2a60b2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/L5 SDE at Amazon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578ddebe97d8bafc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/SDE Growth Path.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ae3e8a0a844fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/Where is Code ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60620be85156ccd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/PM Tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35b535f8c3e83fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/SDE Growth Path.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b7ab58d5c01f2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POE/One per Q1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99687c06c23efc42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics.md",
+                "file": "DSA/Plan 6 months -> 420.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POE/One per Q1.md",
+                "file": "DSA/Plan 6 months -> 420.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POE/One per Q1.md",
+                "file": "DSA/Plan 6 months -> 420.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POE/One per Q1.md"
+                "file": "DSA/Plan 6 months -> 420.md"
               }
             }
           }
@@ -339,30 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b7ab58d5c01f2c9",
+  "active": "bb115b07434e8779",
   "lastOpenFiles": [
+    "DSA/Topics.md",
+    "DSA/Plan 6 months -> 420.md",
     "POE/SDE Growth Path.md",
+    "POE/L5 SDE at Amazon.md",
+    "POE/How to resolve conflicts ?.md",
+    "POE/How is SDE and SDM mindset different?.md",
+    "POE/Don't play the poker again ?.md",
     "POE/One per Q1.md",
-    "POE/SDM growth path.md",
     "POE/PM Tips.md",
     "POE/Where is Code ?.md",
-    "POE/L5 SDE at Amazon.md",
     "POE/The last 1%.md",
-    "POE/Workign Backwards.md",
-    "POE/How to resolve conflicts ?.md",
     "POE/No excuse for bad engineering ?.md",
     "POE/Should a SDM be able to code like a SDE?.md",
     "POE/Project Smells.md",
-    "POE/Don't play the poker again ?.md",
-    "POE/How is SDE and SDM mindset different?.md",
+    "POE/SDM growth path.md",
+    "POE/Workign Backwards.md",
     "Untitled.md",
     "POE",
     "Architecture/Clean Architecture.md",
     "Architecture/How to decouple services and teams..md",
     "Architecture/Layered Architecture.md",
     "Architecture/Micro Service.md",
-    "DSA/Plan 6 months -> 420.md",
-    "DSA/Topics.md",
     "Architecture/MicroService.md",
     "Architecture/Micro Services.md",
     "Pasted image 20230225153848.png",
